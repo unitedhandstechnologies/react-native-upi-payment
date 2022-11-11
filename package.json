@@ -1,6 +1,6 @@
 {
   "name": "react-native-upi-payment",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {},
   "main": "index.js",
   "keywords": [
@@ -11,10 +11,10 @@
     "payments",
     "peer to peer"
   ],
-  "author": "Nitish Phanse",
+  "author": "Rajeshkumar Chandrasekaran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nitish24p/react-native-upi/issues"
+    "url": "https://github.com/unitedhandstechnologies/react-native-upi-payment/issues"
   },
-  "homepage": "https://github.com/nitish24p/react-native-upi#readme"
+  "homepage": "https://github.com/unitedhandstechnologies/react-native-upi-payment#readme"
 }

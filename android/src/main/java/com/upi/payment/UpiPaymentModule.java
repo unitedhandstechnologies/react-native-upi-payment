@@ -111,6 +111,12 @@ public class UpiPaymentModule extends ReactContextBaseJavaModule implements Acti
         }
     }
 
+    @ReactMethod
+    public void unsetCallbackHandlers() {
+        this.successHandler = null;
+        this.failureHandler = null;
+    }
+
     @Override
     public void onNewIntent(Intent intent) {
 
